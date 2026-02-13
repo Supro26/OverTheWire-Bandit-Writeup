@@ -23,7 +23,9 @@ cat readme
  ---
  ## 🔎 Explanation
 At first I used `ssh bandit0@bandit.labs.overthewire.org -p 2220` to securely connect to the bandit0 server using the password **bandit0**.
+
 Then the `ls` command is used to list all present files (One readme file was found )
+
 And used `cat` command to print the content of `readme` in the terminal.
 
 ---
