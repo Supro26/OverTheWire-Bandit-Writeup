@@ -1,4 +1,4 @@
-# 🔐 Bandit Level 2 → 3
+# 🔐 Bandit Level 3 → 4
 
 ## 🎯 Objective
 ##### The password for the next level is stored in a hidden file in the **inhere** directory.
