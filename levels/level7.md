@@ -7,6 +7,7 @@
 
 ## 🛠️ Concepts Used
 - cat
+- wc
 - grep
 - | (pipe)
 
