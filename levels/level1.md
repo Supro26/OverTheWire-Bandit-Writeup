@@ -29,4 +29,4 @@ And the `cat` command is again used to display the content of the file `-` .
 
 The main challange was to `cat` the `-` file, naturally we decalre [mode] for any command using the dash `-` keyword. So only using `cat -` creates confussion.
 
-So I went to search for a solution and found out that, using `cat ./-[filename]` can slove this issue of ambiguity.
+So I went to search for a solution and found out that, using `cat ./-[filename]` can slove this issue of ambiguity. This was a new technique that I learned in this level
