@@ -30,4 +30,4 @@ And used `cat` command to print the content of `readme` in the terminal.
 
 ---
 
-Bravo we got the pass for the next level. Too easy right? Dont worry, the more we solve tougher it will get.
+Bravo we got the pass for the next level. Now we will continue to ssh in the next level using this pass. Too easy right? Dont worry, the more we solve, the more tough it will get.
