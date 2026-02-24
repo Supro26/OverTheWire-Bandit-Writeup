@@ -33,8 +33,8 @@ Each `levels/LevelXX.md` file contains:
 
 ## 🚀 Progress
 
-#### Completed: 20 / 34 Levels  
-#### Current Level: 20 → 21
+#### Completed: 23 / 34 Levels  
+#### Current Level: 24 → 25
 
 📈 I’m actively updating this as I solve more challenges.
 
