@@ -27,9 +27,7 @@ In this challenge `nmap` was used to look up for open ports in the range 31000 t
 
 There were 2 ports with SSL but only one of them will provide the required output. After connecting with both the ports with `openssl`, **31790** was the port we were looking for.
 
-Entering the password of this level , I got a 'RSA Private Key' as a return. I saved it, changed permissions and used it to enter the lext level.(similar to [level 13](/levels/level3.md)).
+Entering the password of this level , I got a 'RSA Private Key' as a return. I saved it, changed permissions and used it to enter the lext level.(similar to [level 13](/levels/level13.md)).
 
 ---
-
-
 
