@@ -26,4 +26,4 @@ To get the line `diff` command was used, which compares two files line by line a
 
 ![alt text](/ss/17.png "Ths is a sample output")
 
-first line was the line from **passeords.new** which was different from the file **passwords.old** .
+In this output, the first line was the line from **passeords.new** which was different from the file **passwords.old** .
