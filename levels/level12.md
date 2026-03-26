@@ -51,3 +51,7 @@ And for tar archive format, `tar -xvf` was used to read the archive file and loo
 In this challage I learned about **hexdump** , what it does and how to deal with multi compressed files.
 
 Im planning to build a tool which can automate this task. This will be one of my upcoming prject.  :]
+
+---
+March 26th,
+And guess what, The project is live. A web-based Recursive File Decompressor [click here](https://github.com/Supro26/Decompressor) for the repo.
