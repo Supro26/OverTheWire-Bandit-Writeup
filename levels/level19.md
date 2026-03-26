@@ -1,7 +1,7 @@
 # 🔐 Bandit Level 19 → 20
 
 ## 🎯 Objective
-##### The password for the next level is stored in a file in the home directory. Use the setuid binary in the home directory to get the password for bandit20.
+##### To gain access to the next level, you should use the setuid binary in the homedirectory. Execute it without arguments to find out how to use it. The password for this level can be found in the usual place (/etc/bandit_pass), after you have used the setuid binary.
 
 ---
 
@@ -33,6 +33,3 @@ The key insight is that this binary allows us to execute commands as the user ba
 
 This executes `cat /etc/bandit_pass/bandit20` with bandit20's privileges, giving us access to the next password.
 
----
-
-![alt text](/ss/19.png "Screenshot placeholder")
