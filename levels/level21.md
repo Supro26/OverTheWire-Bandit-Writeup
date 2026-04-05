@@ -1,7 +1,7 @@
 # 🔐 Bandit Level 21 → 22
 
 ## 🎯 Objective
-##### A program is running automatically at regular intervals from cron, a time-based job scheduler. Look in /etc/cron.d/ for the configuration and see what command is being executed.
+##### A program is running automatically at regular intervals from cron, the time-based job scheduler. Look in /etc/cron.d/ for the configuration and see what command is being executed.
 
 ---
 
@@ -47,7 +47,8 @@ Simply read that file to get the next password:
 ```
 cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 ```
-
----
+----
 
 ![alt text](/ss/21.png "Screenshot placeholder")
+
+It was the firt time I heard about cron in this leve, and how it works. I can tell that I learned a lot in this whole Bandit War.
