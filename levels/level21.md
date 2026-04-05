@@ -51,4 +51,4 @@ cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 
 ![alt text](/ss/21.png "Screenshot placeholder")
 
-It was the firt time I heard about cron in this leve, and how it works. I can tell that I learned a lot in this whole Bandit War.
+It was the firt time I heard about cron in this level, and how it works. I can tell that I learned a lot in this whole Bandit War.
